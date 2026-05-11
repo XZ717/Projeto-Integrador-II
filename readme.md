@@ -44,15 +44,11 @@ Mapear o ecossistema Industrial Regional
 
 | Rank | Prioridade | User Story                                                                                                                                              | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 1    | Alta       | Como Cliente, quero no Python, mesclar dos documentos de exp e ixp dos estados de 2021, 2022, 2023, 2024 e 2025                                         | 1      |
-| 2    | Alta       | Como cliente, quero no Python, mesclar dos documentos de exp e ixp do municipios de São José dos Campos e região de 2021, 2022, 2023, 2024 e 2025       | 1      |
+| 1    | Baixa      | Como Cliente, quero no Canva, Prototipar um dashboard para a vizualização e aprovação do projeto                                                        | 1      |
+| 2    | Alta       | Como cliente, quero no Python, Baixar a base de dados rais para filtrar os dados necessarios para o projeto                                             | 1      |
 | 3    | Alta       | Como cliente, quero no Canva, algum templates de dashboard para que seja possivel decidir qual visual será definido para o projeto.                     | 1      |
-| 4    | Alta       | Como cliente, quero no Python, agrupe em um unico documento todos dados de imp e exp.                                                                   | 1      |
-| 5    | Média      | Como cliente, quero no powerbi, uma validação para quanto os dados de peso de todas as imp e exp de 2021, 2022, 2023, 2024 e 2025.                      | 1      |
-| 6    | Média      | Como cliente, quero no powerbi, uma validação para quanto os dados de valor de todas as imp e exp de 2021, 2022, 2023, 2024 e 2025.                     | 1      |
-| 7    | Alta       | Como cliente, quero no PowerBI, um dashboard para exportação e importação dos municipios de são José dos Campos e Região.                               | 1      |
-| 8    | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                         | 1      |
-| 10   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                         | 1      |
+| 4    | Alta       | Como cliente, quero no Word, Realizar parte do relatório, para a parte teorica do projeto                                                               | 1      |
+| 5    | Média      | Como cliente, quero no powerbi, uma validação de dados para demonstração do dashboard.                                                                  | 1      |
 
 
 
@@ -63,7 +59,7 @@ Mapear o ecossistema Industrial Regional
 
 | Sprint            | Previsão   | Status   
 |-------------------|------------|----------|
-| 01                | 03/10/2025 | a fazer  | 
-| 02                | 24/10/2025 | a fazer  |
-| 03                | 14/11/2025 | a fazer  |
-| Feira de Soluções | 04/12/2025 | a fazer  |
+| 01                | 11/05/2026 | a fazer  | 
+| 02                | --/--/---- | a definir  |
+| 03                | --/--/---- | a definir  |
+| Feira de Soluções | --/--/---- | a definir  |
