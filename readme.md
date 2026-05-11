@@ -27,9 +27,8 @@ O objetivo deste projeto é desenvolver um Dashboard no BI que permita visualiza
 
 # Objetivo do Projeto
 Mapear o ecossistema Industrial Regional
-* Mapear o ecossistema industrial e de serviços de São José Dos Campos e região
-* Identificar os principais setores, processos produtivos e desafios tecnológicos
-* O projeto sera desenvolvido com o CADI
+* Mapear o ecossistema industrial do setor econômico de Defesa Aeroespacial.
+* Identificar os principais setores, processos produtivos e desafios tecnológicos da área
 
 ## Tecnologias Utilizadas
 
@@ -37,8 +36,7 @@ Mapear o ecossistema Industrial Regional
 * Canva
 * Power BI
 * Microsoft Excel
-* Python (Colab)
-* Visual Studio Code
+* Python (Visual Studio Code)
 
 
  
@@ -50,12 +48,11 @@ Mapear o ecossistema Industrial Regional
 | 2    | Alta       | Como cliente, quero no Python, mesclar dos documentos de exp e ixp do municipios de São José dos Campos e região de 2021, 2022, 2023, 2024 e 2025       | 1      |
 | 3    | Alta       | Como cliente, quero no Canva, algum templates de dashboard para que seja possivel decidir qual visual será definido para o projeto.                     | 1      |
 | 4    | Alta       | Como cliente, quero no Python, agrupe em um unico documento todos dados de imp e exp.                                                                   | 1      |
-| 5    | Média      | Como cliente, quero no powerbi, uma validação para quanto os dados de peso de todas as imp e exp de 2021, 2022, 2023, 2024 e 2025.                      | 2      |
-| 6    | Média      | Como cliente, quero no powerbi, uma validação para quanto os dados de valor de todas as imp e exp de 2021, 2022, 2023, 2024 e 2025.                     | 2      |
-| 7    | Alta       | Como cliente, quero no PowerBI, um dashboard para exportação e importação dos municipios de são José dos Campos e Região.                               | 2      |
-| 8    | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                         | 2      |
-| 9   | Média      | Como cliente, quero no PowerBi, que minhas perguntas sobre as exp e imp sejam respondidas com gráficos e usando como base os dados oficiais fornecidos pelo site oficial| 2     |
-| 10   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                         | 2      |
+| 5    | Média      | Como cliente, quero no powerbi, uma validação para quanto os dados de peso de todas as imp e exp de 2021, 2022, 2023, 2024 e 2025.                      | 1      |
+| 6    | Média      | Como cliente, quero no powerbi, uma validação para quanto os dados de valor de todas as imp e exp de 2021, 2022, 2023, 2024 e 2025.                     | 1      |
+| 7    | Alta       | Como cliente, quero no PowerBI, um dashboard para exportação e importação dos municipios de são José dos Campos e Região.                               | 1      |
+| 8    | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                         | 1      |
+| 10   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                         | 1      |
 
 
 
