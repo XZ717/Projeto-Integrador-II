@@ -49,6 +49,7 @@ Mapear o ecossistema Industrial Regional
 | 3    | Alta       | Como cliente, quero no Canva, algum templates de dashboard para que seja possivel decidir qual visual será definido para o projeto.                     | 1      |
 | 4    | Alta       | Como cliente, quero no Word, Realizar parte do relatório, para a parte teorica do projeto                                                               | 1      |
 | 5    | Média      | Como cliente, quero no powerbi, uma validação de dados para demonstração do dashboard.                                                                  | 1      |
+| 5    | Média      | Como cliente, quero no powerbi, uma validação de dados para demonstração do dashboard.                                                                  | 1      |
 
 
 
