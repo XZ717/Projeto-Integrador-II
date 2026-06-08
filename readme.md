@@ -11,7 +11,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-O objetivo deste projeto é desenvolver um Dashboard no BI que permita visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exportação e importação, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional. 
+O objetivo deste projeto é desenvolver um Dashboard no BI que permita visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no setor de defesa aeroespacial, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de setores e ocupações que estejam em ascensão, estagnação ou declínio no mercado internacional. 
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -27,7 +27,7 @@ O objetivo deste projeto é desenvolver um Dashboard no BI que permita visualiza
 
 # Objetivo do Projeto
 Mapear o ecossistema Industrial Regional
-* Mapear o ecossistema industrial do setor econômico de Defesa Aeroespacial.
+* Mapear os setores e ocupações industriais do setor econômico de Defesa Aeroespacial.
 * Identificar os principais setores, processos produtivos e desafios tecnológicos da área
 
 ## Tecnologias Utilizadas
@@ -49,12 +49,12 @@ Mapear o ecossistema Industrial Regional
 | 3    | Alta       | Como cliente, quero no Canva, algum templates de dashboard para que seja possivel decidir qual visual será definido para o projeto.                     | 1      |
 | 4    | Alta       | Como cliente, quero no Word, Realizar parte do relatório, para a parte teorica do projeto                                                               | 1      |
 | 5    | Média      | Como cliente, quero no powerbi, uma validação de dados para demonstração do dashboard.                                                                  | 1      |
-| 6    | Média      | Como cliente, quero no python, uma melhoria nos dados do dashboard para melhor interpretação.                                                                  | 2      |
-| 7    | Alta      | Como cliente, quero no word, a continuação da parte teórica do projeto.                                                                  | 2      |
-| 8    | Baixa      | Como cliente, quero no powerbi, melhorar a parte visual do do dashboard.                                                                  | 2      |
-| 9    | Alta      | Como cliente, quero no word, a finalização do relatório do projeto.                                                                  | 3      |
-| 10    | Alta      | Como cliente, quero no canva, a apresentação de todas as partes do projeto.                                                                  | 3      |
-| 11    | Média      | Como cliente, quero no powerbi, a finalização do dashboard.                                                                  | 3      |
+| 6    | Média      | Como cliente, quero no python, uma melhoria nos dados do dashboard para melhor interpretação.                                                           | 2      |
+| 7    | Alta       | Como cliente, quero no word, a continuação da parte teórica do projeto.                                                                                 | 2      |
+| 8    | Baixa      | Como cliente, quero no powerbi, melhorar a parte visual do do dashboard.                                                                                | 2      |
+| 9    | Alta       | Como cliente, quero no word, a finalização do relatório do projeto.                                                                                     | 3      |
+| 10   | Alta       | Como cliente, quero no canva, a apresentação de todas as partes do projeto.                                                                             | 3      |
+| 11   | Média      | Como cliente, quero no powerbi, a finalização do dashboard.                                                                                             | 3      |
 
 
 
